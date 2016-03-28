@@ -38,6 +38,7 @@ pip-delete-this-directory.txt
 htmlcov/
 .tox/
 .coverage
+
 .coverage.*
 .cache
 nosetests.xml
@@ -60,3 +61,7 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+
+
+
